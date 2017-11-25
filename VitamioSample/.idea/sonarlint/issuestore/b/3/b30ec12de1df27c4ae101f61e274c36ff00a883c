@@ -1,0 +1,10 @@
+
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(°³ä®8ô¹ôÝþ+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô‹—8ÒŠôÝþ+
+Ksquid:S1659"*Declare "loadRateView" on a separate line.(—Œÿÿÿÿÿ8º¤ÓÜþ+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(±ŸðÅ8º¤ÓÜþ+
+ssquid:S1450"RRemove the "uri" field and declare it as a local variable in the relevant methods.(¨ÁÉ¬ùÿÿÿÿ8º¤ÓÜþ+
+@squid:S2131"Use "Integer.toString" instead.(ïù×ºÿÿÿÿÿ8º¤ÓÜþ+
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ê×Ïùÿÿÿÿ
+Msquid:S1905",Remove this unnecessary cast to "VideoView".(ôÅµÁüÿÿÿÿ8÷¿Ýþ+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Žï¨•8º¤ÓÜþ+

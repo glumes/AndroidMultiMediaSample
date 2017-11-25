@@ -1,0 +1,26 @@
+
+Bsquid:S1481"(Remove this unused "pos" local variable.(ıáÕŠúÿÿÿÿ
+nsquid:S00116"SRename this field "img_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Èü±ùÿÿÿÿ
+`squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(úé¢å
+?squid:S1068"*Remove this unused "player" private field.(ˆ“ï
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
+Bsquid:S1068"-Remove this unused "mDragging" private field.(¨ÁÔ§
+Dsquid:S3398"*Move this method into "MyGestureListener".(¼Á¡÷ûÿÿÿÿ
+;squid:S1481"&Remove this unused "x" local variable.(àƒ¥¥
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œÆ ¬üÿÿÿÿ
+=squid:S1185"(Remove this method to simply inherit it.(ÖÀÂë
+?squid:S3398"*Move this method into "MyGestureListener".(§Şå™
+8squid:S1659"#Declare "mOldY" on a separate line.(ªÒØº
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(úé¢å
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ĞÁ°ûÿÿÿÿ
+?squid:S3398"*Move this method into "MyGestureListener".(ÊØ­¾
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ĞÁ°ûÿÿÿÿ
+Asquid:S1068",Remove this unused "progress" private field.(ÕÖÒš
+lsquid:S1450"WRemove the "mIvScale" field and declare it as a local variable in the relevant methods.(å‘üÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÃğÅøÿÿÿÿ
+Dsquid:S3398"*Move this method into "MyGestureListener".(ÃğÅøÿÿÿÿ
+Jsquid:S1854"5Remove this useless assignment to local variable "x".(àƒ¥¥
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+qsquid:S1450"WRemove the "img_back" field and declare it as a local variable in the relevant methods.(¾Èü±ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(åë¨ƒşÿÿÿÿ

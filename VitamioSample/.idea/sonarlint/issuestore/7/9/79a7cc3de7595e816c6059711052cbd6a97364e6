@@ -1,0 +1,16 @@
+
+Dsquid:S1066"/Merge this if statement with the enclosing one.(ˆôÎ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(Û¹™Íüÿÿÿÿ
+Msquid:S3516"9Refactor this method to not always return the same value.(Â÷ª
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿£ú½ùÿÿÿÿ
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â÷ª
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹‚ä”
+Dsquid:S1066"/Merge this if statement with the enclosing one.(¥¡ÇÔ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÂÕ²íúÿÿÿÿ
+œsquid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÿÏŸ
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â÷ª
+Dsquid:S1066"/Merge this if statement with the enclosing one.(€›Óò
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–øıÆ
+Usquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+asquid:S1192"GDefine a constant instead of duplicating this literal "string" 4 times.(ƒÊ ×øÿÿÿÿ
+>squid:S1659"*Declare "windowHeight" on a separate line.(¹×­l

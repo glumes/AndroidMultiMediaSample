@@ -1,0 +1,118 @@
+
+Zsquid:UnusedPrivateMethod"2Remove this unused private "surfaceRender" method.(ñíÃ øÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(õùÓ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôç?
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Úµµùÿÿÿÿ
+Gsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™ÙÃû
+Hsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(É¥ÏÄ
+bsquid:S2259"MA "NullPointerException" could be thrown; "timedTextSparse" is nullable here.(××È
+%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ÔõÇ€şÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(­ëÀ®
+@squid:S1075"&Remove this hard-coded path-delimiter.(±³œ¶øÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(±³œ¶øÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ŒÓúÀ
+jsquid:S1192"UDefine a constant instead of duplicating this literal "libstlport_shared.so" 3 times.(ïı’®
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ§Û
+•%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(«Ç§ì
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔõÇ€şÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(í¾…üÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(åÜÆÓıÿÿÿÿ
+[squid:UnusedPrivateMethod"3Remove this unused private "surfaceRelease" method.(ğ çûÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æ—‘´
+¡%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(åÜÆÓıÿÿÿÿ
+`squid:UnusedPrivateMethod"8Remove this unused private "audioTrackSetVolume" method.(Ğùâøÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(«Ç§ì
+Zsquid:UnusedPrivateMethod"7Remove this unused private "loadVVO_native_lib" method.(÷Ê·â
+fsquid:S1192"LDefine a constant instead of duplicating this literal "libvvo.9.so" 3 times.(±·‚ùøÿÿÿÿ
+Nsquid:S3516"9Refactor this method to not always return the same value.(‰ˆÿä
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÜÆÓıÿÿÿÿ
+Psquid:UnusedPrivateMethod"-Remove this unused private "load_lib" method.(‰ˆÿä
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‚ÓŞüÿÿÿÿ
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆ–p
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±é‹á
+2squid:S2386"Make this member "protected".(äìµÃ
+”%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(‰ğ˜f
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÏ¤Õşÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³—¬Îøÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(»‡´²
+[squid:UnusedPrivateMethod"8Remove this unused private "postEventFromNative" method.(·î¾
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(«Ç§ì
+[squid:S1226"AIntroduce a new variable instead of reusing the parameter "path".(ÃÛ‡§ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›¾ç¸
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(³øÏï
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ–Ô
+œ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(»‡´²
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Áµ·á
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ê·â
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Íâ”øÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰«ô
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(±é‹á
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ë¨
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÖ•9
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¡…Íşÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Ôä¡Ìşÿÿÿÿ
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÖôÉûÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(õùÓ
+@squid:S1075"&Remove this hard-coded path-delimiter.(±³œ¶øÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ª‹¶Õüÿÿÿÿ
+Ssquid:UnusedPrivateMethod"0Remove this unused private "surfaceInit" method.(ëÇô
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‡µ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üåèâ
+Gsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çó¹+
+¡%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ù¥­ñüÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ù¥­ñüÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(±³œ¶øÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·î¾
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş…áß
+`squid:UselessImportCheck">Remove this unused import 'io.vov.vitamio.utils.ContextUtils'.(Ô…ó
+˜%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ÙÖ•9
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¿Úµµùÿÿÿÿ
+^"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+Wsquid:UnusedPrivateMethod"4Remove this unused private "audioTrackStart" method.(ÔÏø¯
+nsquid:S1450"TRemove the "mData" field and declare it as a local variable in the relevant methods.(’É‘˜ûÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(‰á>
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(­ëÀ®
+]squid:UnusedPrivateMethod":Remove this unused private "loadFFmpeg_native_lib" method.(Æ§Û
+@squid:S1075"&Remove this hard-coded path-delimiter.(±³œ¶øÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(àÕÓï
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(õùÓ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öÿî¡
+Dsquid:S00108")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+Vsquid:UnusedPrivateMethod".Remove this unused private "updateSub" method.(ÑÚ…ûÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ôâ”;
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“­å™ÿÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(‰ğ˜f
+]squid:S1226"HIntroduce a new variable instead of reusing the parameter "sizeInBytes".(´®Œú
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥©Şº
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Àü£î
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÓŞg
+Ysquid:UnusedPrivateMethod"7Remove this unused private "loadVAO_native_lib" method.(¶ÓŞg
+_squid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Àëè¡
+›%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(‰ğ˜f
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôâ”;
+qsquid:S3008"\Rename this field "NATIVE_OMX_LOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨äš¥
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ÁÕ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾…üÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÍ§ÿûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢üíï
+Ysquid:UnusedPrivateMethod"6Remove this unused private "updateCacheStatus" method.(ü×‹Š
+™%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(é³å÷
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¥œäÿÿÿÿÿ
+_squid:S1226"JIntroduce a new variable instead of reusing the parameter "offsetInBytes".(à˜ì“
+%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ù¥­ñüÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ñ‰ÿÜıÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ˆÿä
+Wsquid:UnusedPrivateMethod"4Remove this unused private "audioTrackPause" method.(ƒäÖŞ
+\squid:UnusedPrivateMethod"4Remove this unused private "audioTrackWrite" method.(à´‘œÿÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Üåèâ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄŒ¶Òûÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùë¹Šúÿÿÿÿ
+asquid:S2259"GA "NullPointerException" could be thrown; "trackInfo" is nullable here.(â×ó’øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á™ïúÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(»‡´²
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È±ãÍøÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äòÆúÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•øµşÿÿÿÿ

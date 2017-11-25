@@ -1,0 +1,13 @@
+
+dsquid:S1192"JDefine a constant instead of duplicating this literal "EglHelper" 4 times.(ÛÓÚ«ùÿÿÿÿ
+tsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "gl".(ğ•Ô¼ıÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¤‡¯¶
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÿõ›î
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ì·ù¯
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(–Ä¼üÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(×±üù
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(éÊ‰
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(›³Á‹úÿÿÿÿ
+€squid:S00116"eRename this field "EGL_CONTEXT_CLIENT_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õôÕ¾úÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ñ’ıÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÉ¨ïıÿÿÿÿ
